@@ -1,0 +1,5 @@
+pages/objects/GuardianNewsHomePageObject.class
+pages/actions/BasicPage.class
+steps/GuardianNewsHomePageStepDefs.class
+Guardiannewsvalidation01IT.class
+pages/actions/GuardianNewsHomePage.class
